@@ -1,0 +1,8 @@
++++++++++++++++++++++++++++++++++++++++++++++
+INFRA DESPLEGADA MONOLITO - env : dev
++++++++++++++++++++++++++++++++++++++++++++++
+VPC :                   vpc-dev-8db48449
+SG :                    sg-app-a8b612b8
+EC2 INSTANCE :          web-united-quail, web-giving-raptor
+RDS :                   rds-9c527842
++++++++++++++++++++++++++++++++++++++++++++++

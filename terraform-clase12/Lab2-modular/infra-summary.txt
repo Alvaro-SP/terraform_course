@@ -1,0 +1,11 @@
+============================================================
+INFRAESTRUCTURA DESPLEGADA — env: dev
+============================================================
+VPC:               vpc-dev-514eac63
+Subnets públicas:  subnet-pub-8f410110, subnet-pub-d8da796c
+Subnets privadas:  subnet-pri-ecc73f9a, subnet-pri-f7181b0d
+EC2 instances:     app-dev-handy-oriole, app-dev-integral-ocelot
+ALB:               alb-app-c872ec5f.elb.amazonaws.com
+App Security Group: sg-app-db32b44b
+RDS:               rds-dev-a98b3062
+============================================================
