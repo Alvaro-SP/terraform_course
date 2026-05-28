@@ -9,7 +9,7 @@ terraform {
   }
 
   cloud {
-    organization = "TU-ORGANIZACION"   # <-- reemplazar con el nombre de tu org
+    organization = "edutek-terraform-2026"
 
     workspaces {
       name = "edutek-lab-dev"
